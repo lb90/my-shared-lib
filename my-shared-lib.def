@@ -1,0 +1,3 @@
+LIBRARY my-shared-lib
+EXPORTS
+   add_numbers
